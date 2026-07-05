@@ -1,0 +1,6 @@
+{
+  "name": "VeriRAG",
+  "description": "AI Trust and Verification Platform utilizing RAG, multi-model consensus, and evidence grounding analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

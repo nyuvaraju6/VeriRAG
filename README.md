@@ -1,2 +1,20 @@
-# VeriRAG
-VeriRAG includes a lightweight authentication system that allows users to securely access the platform before performing AI verification. Users can sign in using Google or email/password authentication. The system creates a temporary user session, enabling personalized features such as verification history, recent searches, and document management. For the hackathon MVP, authentication is designed to be simple, secure, and easy to integrate while maintaining a seamless user experience
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/e80cf57d-8cef-424c-b6b5-4f112c2594a9
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
